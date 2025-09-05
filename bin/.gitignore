@@ -1,0 +1,19 @@
+# Compiled class files
+*.class
+
+# Maven
+/target/
+
+# Other system-specific or IDE files
+/.idea/
+/*.iml
+# Eclipse specific
+.classpath
+.settings/
+.metadata/
+bin/.gitignore
+bin/.project
+bin/pom.xml
+bin/README.md
+bin/.vscode/launch.json
+bin/src/main/resources/application.properties

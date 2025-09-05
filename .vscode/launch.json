@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-EMSPortalApplication<EMSPortal>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "ai.sigmasoft.emsportal.EMSPortalApplication",
+      "projectName": "EMSPortal",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
